@@ -18,7 +18,7 @@ You will be able to find all my academic projects here along with their project 
 
 
 # Project 2 -Author Profiling 
-<li><a href="https://github.com/rindranil7/Natural-Language-Processing/tree/Task-1" class="button">Author Identification  </a></li>
+<li><a href="https://github.com/rindranil7/Projects/blob/Author-Profiling/Author%20Profiling.ipynb" class="button">Author Identification  </a></li>
 <li><a href="https://github.com/rindranil7/Projects/blob/Author-Profiling/TXT%20ANALYSIS%20(1)%20(1).pdf" class="button">Project Report  </a></li>  
 </li>
 
